@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'FromtheWoods';
+    src: url(fonts/FromtheWoods-Regular.woff2) format('woff2')
+}
+h1 {
+    font-family: 'FromtheWoods';
+}
